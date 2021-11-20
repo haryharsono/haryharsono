@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @haryharsono
 
-		<img src="/image/kaizen.jpg" >
+<img src="/image/kaizen.jpg" >
