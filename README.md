@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haryharsono
 - Natte of Bonja
-- Static Type Is my passion
+- Static Type Is My Passion
 
 
  <img src="/image/kaizen.jpg" > 
